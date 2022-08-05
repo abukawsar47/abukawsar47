@@ -1,8 +1,11 @@
-### Hi there 👋, I'm Abu Kawsar
-#### Full Stack Web Developer
 ![Full Stack Web Developer](https://i.ibb.co/cg7v6yD/image-1.jpg)
 
-I'm Abu Kawsar. I'm a front-end web developer. I passed an HSC in Business Studies in 2020 from University Laboratory School and College. 
+### Hello, I'm Abu Kawsar
+
+#### A Full Stack Web Developer
+
+
+I passed an HSC in Business Studies in 2020 from University Laboratory School and College. 
 
 I'm learning web development for one year. I recently took a full-stack development course from Programming-Hero. 
 
@@ -16,10 +19,10 @@ Discussion can make easy all difficulties!
 
 Skills: REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on Themeposh 
-- 🌱 I’m currently learning Web Development  
-- 👯 I’m looking to collaborate on GitHub  
-- 💬 Ask me about Web Development 
+- I’m currently working on Themeposh 
+- I’m currently learning Web Development  
+- I’m looking to collaborate on GitHub  
+- Ask me about Web Development 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abukawsar47)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abu-kawsar-10118b228/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/abukawsar204)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/abu_kawsar_47/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://abu-kawsar.netlify.app/)  
