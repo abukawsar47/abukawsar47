@@ -1,4 +1,4 @@
-![Full Stack Web Developer](https://i.ibb.co/cg7v6yD/image-1.jpg)
+![Full Stack Web Developer]()
 
 ### Hello, I'm Abu Kawsar
 
