@@ -1,4 +1,3 @@
-![Full Stack Web Developer]()
 
 ### Hello, I'm Abu Kawsar
 
